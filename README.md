@@ -1,6 +1,6 @@
  <div align="center">
 
-# ⚡ SHREYAS M UGARGOL
+#  SHREYAS M UGARGOL
 
 ### `Turning curiosity into code, and ideas into reality.`
 
